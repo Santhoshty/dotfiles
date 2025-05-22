@@ -1,9 +1,9 @@
-## Quick Shortcuts
+## Keybinds
 
-Super + Q - Close
-Super + # - takes you to a different workspace
-Shift + Super + # - Puts on a different workspace
-Hold Super + Drag - Moves them around
+- Super + Esc - Close
+- Super + # - takes you to a different workspace
+- Shift + Super + # - Puts on a different workspace
+- Hold Super + Drag - Moves them around
 
 ## Fedora Repo
 
@@ -14,7 +14,7 @@ Hold Super + Drag - Moves them around
 - Hyprland - 95 MB
 - Kitty - included in hyprland package
 - Hyprpaper -191KiB
-- Hyprpolkitagent (the dotfile uses KDE agent so not neccesary)
+- Hyprpolkitagent (the dotfile uses KDE agent so not neccesary) - 586 KiB
 - Waybar - 4MB
 	- https://github.com/lepz0r/owlphin
 - Hypridle -166 KiB
@@ -25,12 +25,13 @@ Hold Super + Drag - Moves them around
 - Swaync - 3MB
 	- https://github.com/ErikReider/SwayNotificationCenter?tab=readme-ov-file#available-widgets
 
-- Hyprshot
+- Hyprshot -46 KiB
 - Rofi - 2MB
 	- This you need to run the script manually its not an executable
 	- Hyprland has the config setup but you can also change path variables
 	- https://github.com/adi1090x/rofi
 - Wlsunset - 35 KiB
+- Pavucontrol - 2MB
 
 ## Fonts
 
@@ -40,7 +41,4 @@ Hold Super + Drag - Moves them around
 
 ## To Do
 
-- Potential wlsunset for coordinate themed night filter
-- Left channel speaker audio doesnt work sometimes?
-- LXappearance for GTK themes
-- Force scaling on x11
+- LXappearance for GTK themes - 2MB (doesnt work try nwg-look)
