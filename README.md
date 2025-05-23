@@ -1,15 +1,10 @@
-## Keybinds
+## Installation
 
-- Super + Esc - Close
-- Super + # - takes you to a different workspace
-- Shift + Super + # - Puts on a different workspace
-- Hold Super + Drag - Moves them around
-
-## Fedora Repo
+### Fedora Repo
 
 #> dnf copr enable solopasha/hyprland
 
-## Installation
+### Packages
 
 - Hyprland - 95 MB
 - Kitty - included in hyprland package
@@ -17,6 +12,8 @@
 - Hyprpolkitagent (the dotfile uses KDE agent so not neccesary) - 586 KiB
 - Waybar - 4MB
 	- https://github.com/lepz0r/owlphin
+	- https://github.com/Sebastiaan76/waybar_wireplumber_audio_changer
+		- pythonscript included for audio channel switch
 - Hypridle -166 KiB
 - Hyprlock - 480KiB
 	- https://github.com/MrVivekRajan/Hyprlock-Styles
@@ -32,13 +29,19 @@
 	- https://github.com/adi1090x/rofi
 - Wlsunset - 35 KiB
 - Pavucontrol - 2MB
-
-## Fonts
+### Fonts
 
 - Nerdfonts https://www.nerdfonts.com/
 - Jetbrains
 
+## Keybinds
+
+- Super + Esc - Close
+- Super + # - takes you to a different workspace
+- Shift + Super + # - Puts on a different workspace
+- Hold Super + Drag - Moves them around
 
 ## To Do
 
-- LXappearance for GTK themes - 2MB (doesnt work try nwg-look)
+- Uninstall LXappearance for GTK themes - 2MB
+- Figure out Dark GTK themes
